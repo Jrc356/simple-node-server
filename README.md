@@ -1,5 +1,5 @@
 # Simple Node Server
-This is a barebones, very simple node server. This was created to show how to get into backend development on my site www.jonrcorbin.com
+This is a barebones, very simple node server
 
 # Installation & Usage
 1. Clone repository
